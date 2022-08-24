@@ -1,0 +1,16 @@
+{
+  "name": "bbs-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@mattrglobal/bbs-signatures": "^1.1.0",
+    "@types/node": "^18.7.12",
+    "lodash": "^4.17.21",
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.184",
+    "ts-node": "^10.9.1"
+  }
+}
